@@ -1,4 +1,4 @@
-const BASE_URL = 'https://springbootgcpcr-a6bnbhk5xa-as.a.run.app/'
+const BASE_URL = 'https://gcpcinematicket-zw4q5t54fa-as.a.run.app'
 
 export default {
     apiLogin : BASE_URL + 'api/auth/login',
